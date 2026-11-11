@@ -1,0 +1,3 @@
+Model,ROC_AUC
+Logistic Regression,0.9630386112
+Naive Bayes,0.9448870784000001
